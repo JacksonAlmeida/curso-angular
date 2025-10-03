@@ -8,4 +8,6 @@ import { Component } from '@angular/core';
 })
 export class FirstComponent {
 
+  full_name: string = "Jackson Almeida Rodrigues"
+
 }
